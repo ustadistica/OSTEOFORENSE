@@ -1,0 +1,23 @@
+
+[tool.poetry]
+name = "template_pcd_usta"
+version = "0.1.0"
+description = "Proyecto de Ciencia de Datos del Consultorio USTA."
+authors = ["Tu Nombre <tu.email@usantotomas.edu.co>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+# Agrega aquí las dependencias principales, ej:
+# pandas = "^2.1.0"
+# scikit-learn = "^1.3.0"
+# jupyterlab = "^4.0.5"
+
+[tool.poetry.group.dev.dependencies]
+# Dependencias solo para desarrollo
+# pytest = "^7.4.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
