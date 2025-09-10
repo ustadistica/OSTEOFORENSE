@@ -1,6 +1,6 @@
 
-# Proyecto: Reconocimiento de personas desaparecidas
- en Colombia mediante análisis facial
+# Proyecto: Reconocimiento de personas desaparecidas en Colombia mediante análisis facial
+ 
 ---
 ![Logo Universidad Santo Tomás](https://usantotomas.edu.co/hs-fs/hubfs/social-suggested-images/usantotomas.edu.cohs-fshubfsLogo%20Santoto%20-%20SP%20Bogota%20Horizontal%20blanco-2.png)
 
