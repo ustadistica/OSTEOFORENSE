@@ -10,7 +10,7 @@
 Responsables
 
 - Alejandra Benedetti
-- Angela Orguela
+- Angela Orjuela
 - Natalia Zarate
 - Alejandro Chavarro
 
